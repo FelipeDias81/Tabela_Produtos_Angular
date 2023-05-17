@@ -2,28 +2,38 @@
   "products": [
     {
       "id": 1,
-      "name": "Felipe",
-      "email": "Felipe@gmail.com"
+      "name": "Picanha",
+      "amount": "100",
+      "validity": "16/07/2023",
+      "price": "R$310,00"
     },
     {
       "id": 2,
-      "name": "Margarete",
-      "email": "margarete@gmail.com"
+      "name": "Contra-filé",
+      "amount": "150",
+      "validity": "26/08/2023",
+      "price": "R$89,90"
     },
     {
       "id": 3,
-      "name": "Nelson da Saúde",
-      "email": "nelson@gmail.com"
+      "name": "Maminha",
+      "amount": "200",
+      "validity": "20/05/2023",
+      "price": "R$69,90"
     },
     {
       "id": 4,
-      "name": "Felipe",
-      "email": "aaaaaaaaaaa@gmila"
+      "name": "Fraldinha",
+      "amount": "170",
+      "validity": "12/07/2023",
+      "price": "R$54,90"
     },
     {
       "id": 5,
-      "name": "Masculino",
-      "email": "mdo@example.comewqeqweqewq"
+      "name": "Filé-Mignon",
+      "amount": "80",
+      "validity": "23/06/2023",
+      "price": "R$76,90"
     }
   ]
 }

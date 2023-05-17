@@ -1,7 +1,7 @@
 export interface Product {
     id: number;
     name: string;
-    quantidade: string;
-    validade: string;
-    preco: string;
+    amount: string;
+    validity: string;
+    price: string;
 }
